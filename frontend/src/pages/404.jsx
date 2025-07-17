@@ -17,7 +17,7 @@ const NotFoundPage = () => {
 					Sorry, we can't find that page. You'll find lots to explore on the home page.
 				</p>
 				<Link to={"/"} className='bg-white text-black py-2 px-4 rounded'>
-					Netflix Home
+					Flixxit Home
 				</Link>
 			</main>
 		</div>
